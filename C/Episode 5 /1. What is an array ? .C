@@ -1,8 +1,22 @@
 #include <stdio.h>
 
-int main(){
-    /*Arrays are used to store multiple values in a single variable,
-    instead of declaring separate variables for each value.*/
+/*
+Arrays are used to store multiple values in a single variable,
+instead of declaring separate variables for each value.
+*/
+
+/*
+why array ?
+int student1, student2, student3, ..., student100;
+int scores[100]; 
+*/
+
+/*
+DataType  VariableName [size] ;
+*/
+
+int main()
+{
     int number[] = {2.4 , 3 , 60 , 2000};
     float array[] = {1, 5, 3.6, -17};
     char letters[] = {'a', 'b', 'c', 'd'};
