@@ -7,10 +7,9 @@ Instead, you must use the char type and create an array of characters to make a 
 
 int main()
 {
-    // Declare and initialize a string variable
-    //char str[] = "Hello Friend !";
-    char str[] = {'H','e','l','l','o',' ','F','r','i','e','n','d',' ','!','\0'};
-    printf("%s\n",str); 
+    char str1[] = "Hello Friend !";
+    char str2[] = {'H','e','l','l','o',' ','F','r','i','e','n','d',' ','!','\0'};
+    printf("%s\n",str2); 
 
     return 0; 
 }
