@@ -1,7 +1,9 @@
 #include <stdio.h>
 
-/* C does not have a String type to easily create string variables.
- Instead, you must use the char type and create an array of characters to make a string in C*/
+/* 
+C does not have a String type to easily create string variables.
+Instead, you must use the char type and create an array of characters to make a string in C
+*/
 
 int main()
 {
