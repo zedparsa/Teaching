@@ -6,6 +6,7 @@ returnType functionName(parameters) {
     return value; 
 }
 */
+
 void hello(); //prototype
 void printNumber(int);
 int square(int num);
